@@ -14,7 +14,7 @@ width: 100%;
     height: 65vh;
     opacity: 0.8;
     /* width: 100vw; */
-    background-image: url("./images/macbook_mouse.jgp");
+    background-image: url(./images/macbook_mouse.jgp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
